@@ -1,3 +1,5 @@
+
+![logo](https://www.springboard.com/library/static/a157b5c003f08af17664a602ba426b05/8b619/data-engineering-on-azure.jpg)
 <h1 align="center">Hi There 👋, I'm Loubna Boukayoua</h1>
 <h3 align="center">A passionate Data Engineering Student from Morocco</h3>
 
