@@ -1,10 +1,12 @@
 <h1 align="center">Hi There 👋, I'm Loubna Boukayoua</h1>
 <h3 align="center">A passionate Data Engineering Student from Morocco</h3>
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boukayoualoubna&label=Profile%20views&color=0e75b6&style=flat" alt="boukayoualoubna" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning ,Jakarta EE (Enterprise Edition), NLP ,Advanced Big Data, Cloud Computing Platform...**
+- 🌱 I’m currently learning **Deep Learning ,Jakarta EE (Enterprise Edition), NLP ,Advanced Big Data, Cloud Computing Platform**
 
 - 💬 Ask me about **Python, Java(OOP) ,Machine Learning, SQL and Databases**
 
